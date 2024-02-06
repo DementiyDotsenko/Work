@@ -1,0 +1,67 @@
+\\omega.local\pers\dotd
+
+spb-ws-311
+omega\dotd
+qUGjs6RB (PPL17N_w)
+
+Сотрудник-ПК
+https://docs.google.com/spreadsheets/d/1X9HWn177gOmsaz8NnF51pmflP0fMYGRXeBoJlf_twIA/edit#gid=1531150271
+
+https://portal.1c.ru/
+логин  09870-40 
+пароль 435b0b03
+
+Srvr="srv3-pr-ind";Ref="zkgu";
+ДоценкоДементийВалентинович 68duloD
+ЗУП
+
+Srvr="srv1-esb-ind";Ref="esb";  
+ДоценкоДементийВалентинович   Ky6Fulol (сменил)
+Шина
+
+Srvr="srv1-pr-ind";Ref="sm";  
+ДоценкоДементийВалентинович   mh6JOe7X (сменил)
+Менеджер сервиса
+
+Добрый день, вам предоставлен доступ к терминальному серверу НО по адресу
+Ваш логин: dotd
+Ваш пароль: [IZ=?T(+uG>r\!t&
+
+
+Пользователь: admin_maozkgu
+Пароль: om_admin_maozkgu
+Mikanka_lov2
+Srvr="bft-app-test-06";Ref="zkgu03";
+http://bft-app-test-06/a/zkgu03/582/ru_RU/
+http://bft-app-test-06/a/zkgu03/565/ru_RU/
+http://bft-app-test-06/a/zkgu03/566/ru_RU/
+http://bft-app-test-07/a/zkgu05/707/
+/N Адаптация /P Gi7vo5da
+
+
+Облако Ленобласти
+Рабочая, тестовая зоны МС, БГУ + неразделённый режим
+Cisco
+Логин: p.ponkrashina
+Пароль: 7D6axoNE
+Тестовая база Srvr="ubp-app-test1";Ref="bgu04";
+
+К базам
+Пароль: RuRJz4GO
+Логин: ДоценкоДементийВалентинович
+
+
+БГУ и ЗКГУ Питера
+Администратор
+b@seadm-78
+
+Новый пароль для МС копии
+sm@dm-spb
+
+ДоценкоДВ TA1xyjev (сменил)
+Srvr="srv1-ftest";Ref="esb";
+Тестовая шина в Питере
+
+Хранилище МС
+http://oris-crs-dev.omega.local/pext_SMCloudSPB_dev
+ДоценкоДВ  123
